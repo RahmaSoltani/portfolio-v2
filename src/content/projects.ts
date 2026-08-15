@@ -60,31 +60,31 @@ export const projects: Project[] = [
     videos: [
       {
         label: { en: "Analytics dashboard", fr: "Tableau de bord analytique" },
-        src: "/projects/hse-henkel/videos/dashboard.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--dashboard.mp4",
       },
       {
         label: { en: "Supervisor app", fr: "App superviseur" },
-        src: "/projects/hse-henkel/videos/superviseur.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--superviseur.mp4",
       },
       {
         label: { en: "Submissions & non-conformities", fr: "Soumissions et NC" },
-        src: "/projects/hse-henkel/videos/submissions.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--submissions.mp4",
       },
       {
         label: { en: "Inspector app", fr: "App inspecteur" },
-        src: "/projects/hse-henkel/videos/inspecteur.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--inspecteur.mp4",
       },
       {
         label: { en: "Dynamic inspection forms", fr: "Formulaires d'inspection dynamiques" },
-        src: "/projects/hse-henkel/videos/forms.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--forms.mp4",
       },
       {
         label: { en: "Inspection points & QR", fr: "Points d'inspection & QR" },
-        src: "/projects/hse-henkel/videos/inspection-points.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--inspection-points.mp4",
       },
       {
         label: { en: "Users & settings", fr: "Utilisateurs et paramètres" },
-        src: "/projects/hse-henkel/videos/others.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/hse-henkel--others.mp4",
       },
     ],
   },
@@ -130,11 +130,11 @@ export const projects: Project[] = [
     videos: [
       {
         label: { en: "Admin workspace", fr: "Espace admin" },
-        src: "/projects/dalile/videos/1-workspace.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/dalile--1-workspace.mp4",
       },
       {
         label: { en: "Projects & chats", fr: "Projets et chats" },
-        src: "/projects/dalile/videos/2-chat.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/dalile--2-chat.mp4",
       },
     ],
   },
@@ -174,8 +174,8 @@ export const projects: Project[] = [
       fr: "Développé l'application Android Kotlin/Compose (modules médecin et patient) ainsi que le backend Django REST derrière, avec authentification JWT et notifications push Firebase.",
     },
     videos: [
-      { label: { en: "Doctor app", fr: "App médecin" }, src: "/projects/careconnect/videos/doctor.mp4" },
-      { label: { en: "Patient app", fr: "App patient" }, src: "/projects/careconnect/videos/patient.mp4" },
+      { label: { en: "Doctor app", fr: "App médecin" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/careconnect--doctor.mp4" },
+      { label: { en: "Patient app", fr: "App patient" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/careconnect--patient.mp4" },
     ],
   },
   {
@@ -209,11 +209,11 @@ export const projects: Project[] = [
     videos: [
       {
         label: { en: "ArUco tag localization", fr: "Localisation par tag ArUco" },
-        src: "/projects/bitween/videos/tags.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/bitween--tags.mp4",
       },
       {
         label: { en: "Full pipeline demo", fr: "Démo du pipeline complet" },
-        src: "/projects/bitween/videos/demo.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/bitween--demo.mp4",
       },
     ],
     images: [
@@ -270,15 +270,15 @@ export const projects: Project[] = [
     videos: [
       {
         label: { en: "Member", fr: "Membre" },
-        src: "/projects/article-search/videos/1-home.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/article-search--1-home.mp4",
       },
       {
         label: { en: "Moderator", fr: "Modérateur" },
-        src: "/projects/article-search/videos/2-search.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/article-search--2-search.mp4",
       },
       {
         label: { en: "Admin", fr: "Admin" },
-        src: "/projects/article-search/videos/3-admin.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/article-search--3-admin.mp4",
       },
     ],
   },
@@ -313,15 +313,15 @@ export const projects: Project[] = [
       fr: "Sauvé un dépôt bloqué dans un état cassé : corrigé des conflits de fusion qui cassaient la syntaxe, fusionné le frontend manquant, déplacé les secrets exposés vers des variables d'environnement, et branché une authentification réelle.",
     },
     videos: [
-      { label: { en: "Home", fr: "Accueil" }, src: "/projects/baraa/videos/home.mp4" },
-      { label: { en: "About", fr: "À propos" }, src: "/projects/baraa/videos/about.mp4" },
-      { label: { en: "Events", fr: "Événements" }, src: "/projects/baraa/videos/events.mp4" },
-      { label: { en: "Team", fr: "Équipe" }, src: "/projects/baraa/videos/teams.mp4" },
-      { label: { en: "Members", fr: "Membres" }, src: "/projects/baraa/videos/membre.mp4" },
-      { label: { en: "Admin", fr: "Admin" }, src: "/projects/baraa/videos/admin.mp4" },
+      { label: { en: "Home", fr: "Accueil" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--home.mp4" },
+      { label: { en: "About", fr: "À propos" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--about.mp4" },
+      { label: { en: "Events", fr: "Événements" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--events.mp4" },
+      { label: { en: "Team", fr: "Équipe" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--teams.mp4" },
+      { label: { en: "Members", fr: "Membres" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--membre.mp4" },
+      { label: { en: "Admin", fr: "Admin" }, src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--admin.mp4" },
       {
         label: { en: "Accepting a beneficiary", fr: "Accepter un bénéficiaire" },
-        src: "/projects/baraa/videos/accepterbeficiaire.mp4",
+        src: "https://github.com/RahmaSoltani/portfolio-v2/releases/download/videos-v1/baraa--accepterbeficiaire.mp4",
       },
     ],
   },
