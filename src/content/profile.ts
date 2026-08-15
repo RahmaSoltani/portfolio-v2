@@ -14,8 +14,8 @@ export const profile = {
     ],
   },
   cv: {
-    fr: "/cv/Soltani_Rahma_CV_FR.pdf",
-    en: "/cv/Soltani_Rahma_CV_EN.pdf",
+    fr: "/portfolio/cv/Soltani_Rahma_CV_FR.pdf",
+    en: "/portfolio/cv/Soltani_Rahma_CV_EN.pdf",
   },
   education: [
     {
